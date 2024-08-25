@@ -1,19 +1,16 @@
-<div id="header" align="center">
-	<h2>Hi, I’m Sergey Bondarenko</h2>
-</div>
-
-- 🌱 I’m currently learning to become a data engineer
-- 💞️ I’m looking to collaborate on this field
-- 📫 How to reach me: rabota732@mail.ru
+Hi, I’m Sergey Bondarenko.
+<p>🌱 I’m currently learning to become a Data Engineer.</p>
+<p>💼 I’m looking to collaborate on projects in this field.</p>
+📫 How to reach me: rabota732@mail.ru
 
 ### Languages and tools
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/>
+
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=1-SergeyBondarenko&theme=dark&show_icons=true&locale=en" alt="1-SergeyBondarenko" /><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1-SergeyBondarenko&theme=dark&show_icons=true&locale=en&layout=compact" alt="1-SergeyBondarenko" />
