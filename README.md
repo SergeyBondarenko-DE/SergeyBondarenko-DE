@@ -1,3 +1,5 @@
+<h3>
+
 Hi, I’m Sergey Bondarenko.
 <p>🌱 I’m currently learning to become a Data Engineer.</p>
 <p>💼 I’m looking to collaborate on projects in this field.</p>
@@ -28,3 +30,4 @@ Hi, I’m Sergey Bondarenko.
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1-SergeyBondarenko&theme=github_dark"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1-SergeyBondarenko&theme=github_dark"/>
  </div>
+</h3>
