@@ -5,6 +5,12 @@ Hi, I’m Sergey Bondarenko.
 
 ### Languages and tools
 
+
+<img src="https://img.icons8.com/?size=100&id=69132&format=png&color=000000" title="Hadoop" width="70" height="70"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/greenplum/greenplum-ar21.svg" title="Greenplum" width="140" height="70"/>&nbsp;
+<img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" title="Apache Kafka" width="70" height="70"/>&nbsp;
+<img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" title="Apache Spark" width="70" height="70"/>&nbsp;
+<img src="" title="Apache Spark" width="70" height="70"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="60" height="60"/>&nbsp;
