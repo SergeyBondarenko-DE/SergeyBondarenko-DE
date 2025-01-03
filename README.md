@@ -1,18 +1,27 @@
-Hi, I’m Sergey Bondarenko.
-<p>🌱 I’m currently learning to become a Data Engineer.</p>
-<p>💼 I’m looking to collaborate on projects in this field.</p>
-📫 How to reach me: rabota732@mail.ru
+Привет, меня зовут Сергей Бондаренко, я Data Engineer с опытом работы более 2 лет.   
+Занимаюсь разработкой ETL-пайплайнов и работой с большими данными.   
+Открыт для интересных проектов и сотрудничества.   
+Связаться со мной можно по адресу: sergey.bondarenko90@mail.ru
 
-### Languages and tools
+### Языки и инструменты, которые я использую:  
+Языки программирования: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="60" height="60"/>&nbsp; SQL 
+Инструменты для обработки данных: Apache Kafka, Apache Spark, Airflow  
+Базы данных: PostgreSQL, MySQL, MongoDB  
+Инструменты ETL: Talend, Apache NiFi  
+Облачные платформы: AWS (S3, EC2, Redshift), Google Cloud Platform  
+Системы контроля версий: Git, GitHub, GitLab  
+Контейнеризация: Docker, Kubernetes  
+Визуализация данных: Tableau, Power BI  
+Прочее: Docker, Jenkins, Terraform  
 
 
 <img src="https://img.icons8.com/?size=100&id=69132&format=png&color=000000" title="Hadoop" width="70" height="70"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/greenplum/greenplum-ar21.svg" title="Greenplum" width="140" height="70"/>&nbsp;
 <img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" title="Apache Kafka" width="70" height="70"/>&nbsp;
 <img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" title="Apache Spark" width="70" height="70"/>&nbsp;
-<img src="" title="Apache Spark" width="70" height="70"/>&nbsp;
+<img src="clickhouse_logo_freelogovectors.net_-400x355.png" title="ClickHouse" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="60" height="60"/>&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="Git" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" width="60" height="60"/>
